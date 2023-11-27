@@ -26,8 +26,7 @@ function App() {
    <div className='ml-auto '>
     <a className="text-white" href="https://github.com/laphatize">
     <span className='text-3xl fab fa-github mr-4 hover:text-gray-200'></span>
-    <a href="https://twitter.com/codernav" className="text-3xl fa-brands fa-x-twitter hover:text-gray-200"></a>   
-     </a>
+
 
        
      <a href="mailto:pranav@ctfguide.com" className='ml-4 fas fa-envelope text-3xl hover:text-gray-200 text-white '></a>
