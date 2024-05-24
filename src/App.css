@@ -1,4 +1,18 @@
 body {
-  background-color: black;
-  font-family: 'Poppins', sans-serif;
+  background-color: #E6CBB6;
+  color:#875F45;
+  overflow: hidden; 
 }
+
+.sillyb:hover {
+  color: #C39977;
+}
+
+.cedar {
+
+  font-family: "Allison", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
